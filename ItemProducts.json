@@ -1,7 +1,7 @@
 {
 "childLaptops":{
 		"id":"LaptopCategories",
-		"computerProducts":{
+		"LaptopProducts":{
 			"DellProducts":{
 			"Dell1":{
 				"name":"Dell vostro 3510 i3 11th Gen",
@@ -154,7 +154,7 @@
 				"price":"85,000/110,000",
 				"image":"https://oss.gadgetbytenepal.com/wp-content/uploads/2021/09/Apple-iPad-Mini-6-2021-Design-and-DIsplay.jpg"
 			},
-		}
+		},
 	}
 
 }
